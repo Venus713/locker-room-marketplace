@@ -1,4 +1,4 @@
-# NFT Marketplace
+# NFT Locker-Room Marketplace
 
 ![locker-room](static/locker-room.png)
 
@@ -37,7 +37,3 @@ docker run -it --rm -v $(PWD):/marketplace rumble-kong-league/marketplace:v${VER
 ```
 
 Once you build/run the given Docker environment, you should be in a ready-to-go Poetry environment to run all of your development tests.
-
-----
-
-LFG 👑🦍
